@@ -9,6 +9,7 @@ body{
     margin-bottom: 80px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+
 }
 
 .wrapper {
@@ -41,6 +42,7 @@ h2{
     float: right;
     border: 2px solid black;
     font-size: 18px;
+    width: 30%;
 
 }
 
